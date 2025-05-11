@@ -7,12 +7,14 @@
 
 ### About Me
 
-- 👀 I’m interested in **nothing**
-- 🌱 Currently learning **Lua**
-- 💞️ Looking to collaborate on **nothing**
-- 📫 How to reach me: **money**
-- 😄 Pronouns: **another life**
-- ⚡ Fun fact: **I like games**
+- 👤 name’s **Shinzu** a.k.a **Raxoner**
+- 🔒 mostly into **cybersecurity**, scripts, and **weird web stuff**
+- ⚙️ building random tools on **Replit**
+- 🧠 currently learning **Lua**, but jumps into anything that clicks
+- ❌ not really into collabs — i make stuff for fun (and chaos)
+- 📬 reach me? simple. just say "**money**"
+- 🌀 pronouns? nah, just call me **in your next life**
+- 🎮 fun fact: i game more than i sleep
 
 ---
 
