@@ -49,10 +49,15 @@ Deployment: Replit + Netlify + Vercel combo, no Docker (yet!)
 Project	Description	Tech Stack
 
 🧪 Mini Load Test UI	Web-based UI to run k6 and Locust test scenarios.	Flask, Chart.js
+
 🤖 WA Auto-Sticker Bot	Converts incoming images to stickers with watermark.	Node.js, Baileys, Sharp
+
 🌐 Secure Uploader	Token-gated uploader with webhook logs and file isolation.	Express, Multer, JWT
+
 🕵️ Subdomain Finder	Basic brute-forcer with rate-limit awareness.	Node.js, Axios
+
 🎮 GTPS Custom Server	Roleplay-style Growtopia server with no Boost.Asio.	C++, SQLite
+
 ⚔️ Roblox Script Creater Im founder ShinzuX Hub
 
 
