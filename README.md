@@ -96,7 +96,7 @@ Enhancing backend performance testing techniques
 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimunax&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raxoner&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxoner&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxoner&layout=compact&theme=tokyonight" />
 </p>
