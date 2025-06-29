@@ -97,8 +97,8 @@ Enhancing backend performance testing techniques
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shimunax&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimunax&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimunax&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raxoner&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxoner&layout=compact&theme=tokyonight" />
 </p>
 ---
 
